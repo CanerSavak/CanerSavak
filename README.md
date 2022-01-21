@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+%F0%9F%91%8B%2C+I'm+Caner+Savak)](https://git.io/typing-svg)
+<img align='right' src="http://www.orcunokan.com/img/back-end-developer-programlama-dil-secimi.jpg"  width="240">
 <h3 align="center">I'm computer engineer in Turkey, BackEnd, FrontEnd and Database developer, I just graduated from computer engineering. I aim to improve myself to be one of the best.</h3>
 
 <h3 align="left">Connect with me:</h3>
